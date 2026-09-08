@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "conversation_id": "6a9df532-f49c-83e8-b7c7-f4431ecd3238",
+  "warning": "Una mención no prueba recuperación ni existencia actual. Las referencias content-reference son locales a cada mensaje; index=2 en dos mensajes no identifica necesariamente el mismo archivo.",
+  "attachments": [
+    {
+      "name": "PDFM1000v2.pdf",
+      "source": "attachments de page_001.json; archivo expuesto por herramienta de lectura",
+      "path_as_reported": "C:\\Users\\Patrick\\AppData\\Local\\Temp\\codex-file-preview-HgD3aY\\PDFM1000v2.pdf",
+      "status": "PRESENTE_VERIFICADO_EN_00_ORIGINALES",
+      "package_path": "00_ORIGINALES/PDFM1000v2.pdf"
+    }
+  ],
+  "opaque_generated_artifact_groups": [
+    {
+      "version": "v0.1",
+      "turn_id": "8dfa30bc-6dc8-44e1-be57-aa1356b5fc35",
+      "message_id": "490a0916-4eb8-4285-a127-79832daba466",
+      "indices": [
+        1,
+        2,
+        3
+      ],
+      "description": "Proyecto completo, código/config/tests/artefactos/ADRs/Dockerfile/Compose/runbook; asociación exacta índice-archivo no preservada"
+    },
+    {
+      "version": "comparación 200 seeds",
+      "turn_id": "ba96510a-aba3-43b6-9dc5-4e5dba3873ec",
+      "message_id": "7e663b03-d4d1-4747-955d-967fd52e7705",
+      "indices": [
+        2
+      ],
+      "description": "Resultados 200 ejecuciones; nombre y formato no preservados"
+    },
+    {
+      "version": "v0.3.1-review",
+      "turn_id": "2b865c46-8da9-45b2-869d-acc9411534d9",
+      "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+      "indices": [],
+      "description": "Se afirma paquete/prototipo/resultados crudos; posible entrega en parte truncada del mensaje, no inferir índices"
+    },
+    {
+      "version": "v0.4",
+      "turn_id": "88a1be21-91b9-4869-94cc-5b95c76eb84d",
+      "message_id": "da278096-36cd-45dd-9452-3de4f778857e",
+      "indices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "description": "Replay de BTC; 7 referencias sin nombres, URLs o contenido"
+    },
+    {
+      "version": "v0.5",
+      "turn_id": "09c0e3b0-9d00-4ba6-a6e9-94ac70a95cfe",
+      "message_id": "93136b8a-71c4-46de-9cb9-b6abbff3cf34",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "description": "Experimento completo: 10 referencias sin nombres, URLs o contenido"
+    },
+    {
+      "version": "paquete último recomendado para migración",
+      "turn_id": "1fcf304b-98ba-49dd-bba0-7139083f3983",
+      "message_id": "5cc1beaa-de29-43f5-bc9c-d6da10cb5902",
+      "indices": [
+        5
+      ],
+      "description": "Llamado último paquete; no vincular automáticamente al index=5 v0.5"
+    }
+  ],
+  "named_mentions": [
+    {
+      "name": "quant-system v0.1",
+      "kind": "prototipo reportado",
+      "message_id": "490a0916-4eb8-4285-a127-79832daba466"
+    },
+    {
+      "name": "quant-system v0.3.1-review",
+      "kind": "prototipo reportado",
+      "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816"
+    },
+    {
+      "name": "real_sim_v05/",
+      "kind": "directorio histórico mencionado",
+      "message_id": "5cc1beaa-de29-43f5-bc9c-d6da10cb5902"
+    },
+    {
+      "name": "research.yaml",
+      "kind": "configuración existente afirmada, no consumida por motor según revisión v0.1",
+      "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47"
+    },
+    {
+      "name": "paper.yaml",
+      "kind": "configuración existente afirmada, no consumida por motor según revisión v0.1",
+      "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47"
+    },
+    {
+      "name": "strategies/examples/sma_cross.py",
+      "kind": "ruta propuesta para futura arquitectura, no archivo demostrado",
+      "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47"
+    },
+    {
+      "name": "Dockerfile",
+      "kind": "archivo empaquetado afirmado; texto sin extensión",
+      "message_id": "490a0916-4eb8-4285-a127-79832daba466"
+    },
+    {
+      "name": "Compose",
+      "kind": "configuración Docker mencionada sin nombre exacto",
+      "message_id": "490a0916-4eb8-4285-a127-79832daba466"
+    },
+    {
+      "name": "PROJECT_CONTEXT.md",
+      "kind": "documento propuesto para traspaso",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    },
+    {
+      "name": "DECISIONS.md",
+      "kind": "documento propuesto para traspaso",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    },
+    {
+      "name": "EXPERIMENT_LOG.md",
+      "kind": "documento propuesto para traspaso",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    },
+    {
+      "name": "KNOWN_ISSUES.md",
+      "kind": "documento propuesto para traspaso",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    },
+    {
+      "name": "ROADMAP.md",
+      "kind": "documento propuesto para traspaso",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    },
+    {
+      "name": ".csv / .md / scripts / prototipos / transcripción",
+      "kind": "categorías de archivos; no nombres concretos",
+      "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e"
+    }
+  ],
+  "unresolved_source_citations": "Los tokens filecite (turnNfileM, líneas) y cite (turnNNNviewK, searchK) están preservados como texto, sin tabla que vincule identificadores a URL/archivo. No son referencias externas verificables en esta recuperación.",
+  "additional_recovered_originals": [
+    {
+      "name": "PDFM1000.pdf",
+      "package_path": "00_ORIGINALES/PDFM1000.pdf",
+      "source": "Downloads; comparación con el anexo v2 documentada en AUDITORIA_PDF.md",
+      "status": "PRESENTE_VERIFICADO"
+    }
+  ]
+}

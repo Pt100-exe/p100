@@ -1,0 +1,48 @@
+UTC: 2026-09-08T01:10:40.810117+00:00
+Python: 3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]
+Platform: Windows-11-10.0.26200-SP0
+Command: python -B -m unittest discover -s tests -v
+Exit: 0
+test_delayed_observation_excluded_until_available (test_foundations.FeatureTests.test_delayed_observation_excluded_until_available) ... ok
+test_duplicate_available_events_rejected (test_foundations.FeatureTests.test_duplicate_available_events_rejected) ... ok
+test_exact_trailing_return (test_foundations.FeatureTests.test_exact_trailing_return) ... ok
+test_future_price_changes_do_not_change_past_feature (test_foundations.FeatureTests.test_future_price_changes_do_not_change_past_feature) ... ok
+test_insufficient_history_and_bad_lookback (test_foundations.FeatureTests.test_insufficient_history_and_bad_lookback) ... ok
+test_naive_time_and_impossible_availability_rejected (test_foundations.FeatureTests.test_naive_time_and_impossible_availability_rejected) ... ok
+test_nonfinite_or_nonpositive_available_prices_rejected (test_foundations.FeatureTests.test_nonfinite_or_nonpositive_available_prices_rejected) ... ok
+test_overflow_return_rejected (test_foundations.FeatureTests.test_overflow_return_rejected) ... ok
+test_all_nine_axis_combinations_remain_distinct (test_foundations.RegimeTests.test_all_nine_axis_combinations_remain_distinct) ... ok
+test_nonfinite_signals_and_invalid_thresholds_rejected (test_foundations.RegimeTests.test_nonfinite_signals_and_invalid_thresholds_rejected) ... ok
+test_threshold_equalities_are_flat_and_normal (test_foundations.RegimeTests.test_threshold_equalities_are_flat_and_normal) ... ok
+test_burned_dates_and_overlap_enforced (test_foundations.RegistryFreezeTests.test_burned_dates_and_overlap_enforced) ... ok
+test_freeze_rejects_burned_candidate_and_nonfinite_config (test_foundations.RegistryFreezeTests.test_freeze_rejects_burned_candidate_and_nonfinite_config) ... ok
+test_hashes_deterministic_and_detect_code_data_and_config_changes (test_foundations.RegistryFreezeTests.test_hashes_deterministic_and_detect_code_data_and_config_changes) ... ok
+test_invalid_registry_window_rejected (test_foundations.RegistryFreezeTests.test_invalid_registry_window_rejected) ... ok
+test_missing_data_remains_explicit_and_existing_freeze_not_overwritten (test_foundations.RegistryFreezeTests.test_missing_data_remains_explicit_and_existing_freeze_not_overwritten) ... ok
+test_missing_file_verification_reports_failure (test_foundations.RegistryFreezeTests.test_missing_file_verification_reports_failure) ... ok
+test_nonoverlap_never_certifies_unseen_data (test_foundations.RegistryFreezeTests.test_nonoverlap_never_certifies_unseen_data) ... ok
+test_paths_cannot_escape_root_and_duplicates_are_rejected (test_foundations.RegistryFreezeTests.test_paths_cannot_escape_root_and_duplicates_are_rejected) ... ok
+test_bad_policies_and_strategy_configs_rejected (test_foundations.StrategyRiskTests.test_bad_policies_and_strategy_configs_rejected) ... ok
+test_budget_invariant_for_parameter_grid (test_foundations.StrategyRiskTests.test_budget_invariant_for_parameter_grid) ... ok
+test_delayed_price_perturbation_is_invisible_to_all_downstream_components (test_foundations.StrategyRiskTests.test_delayed_price_perturbation_is_invisible_to_all_downstream_components) ... ok
+test_direction_changes_overlay_even_under_high_vol (test_foundations.StrategyRiskTests.test_direction_changes_overlay_even_under_high_vol) ... ok
+test_example_config_is_executable_and_changes_behavior (test_foundations.StrategyRiskTests.test_example_config_is_executable_and_changes_behavior) ... ok
+test_future_perturbation_invariance_feature_regime_strategy_and_risk (test_foundations.StrategyRiskTests.test_future_perturbation_invariance_feature_regime_strategy_and_risk) ... ok
+test_invalid_ranges_and_halt_fail_closed (test_foundations.StrategyRiskTests.test_invalid_ranges_and_halt_fail_closed) ... ok
+test_low_confidence_blocks_positive_overlay_keeps_explicit_core (test_foundations.StrategyRiskTests.test_low_confidence_blocks_positive_overlay_keeps_explicit_core) ... ok
+test_low_confidence_does_not_prevent_negative_risk_reducing_overlay (test_foundations.StrategyRiskTests.test_low_confidence_does_not_prevent_negative_risk_reducing_overlay) ... ok
+test_no_short_no_leverage_and_explicit_exposure_cap (test_foundations.StrategyRiskTests.test_no_short_no_leverage_and_explicit_exposure_cap) ... ok
+test_runtime_invalid_inputs_fail_closed_in_all_fields (test_foundations.StrategyRiskTests.test_runtime_invalid_inputs_fail_closed_in_all_fields) ... ok
+test_strategy_rejects_invalid_confidence_and_regime (test_foundations.StrategyRiskTests.test_strategy_rejects_invalid_confidence_and_regime) ... ok
+test_up_and_high_vol_retains_trend_intent_then_caps_risk_once (test_foundations.StrategyRiskTests.test_up_and_high_vol_retains_trend_intent_then_caps_risk_once) ... ok
+test_volatility_axis_does_not_apply_second_strategy_discount (test_foundations.StrategyRiskTests.test_volatility_axis_does_not_apply_second_strategy_discount) ... ok
+test_appending_future_rows_does_not_change_selected_fold (test_foundations.TemporalTests.test_appending_future_rows_does_not_change_selected_fold) ... ok
+test_bad_times_order_duplicates_and_horizon_rejected (test_foundations.TemporalTests.test_bad_times_order_duplicates_and_horizon_rejected) ... ok
+test_pre_validation_gap_further_purges_training (test_foundations.TemporalTests.test_pre_validation_gap_further_purges_training) ... ok
+test_purges_horizons_touching_or_crossing_validation (test_foundations.TemporalTests.test_purges_horizons_touching_or_crossing_validation) ... ok
+test_timezone_equivalence_and_partition_completeness (test_foundations.TemporalTests.test_timezone_equivalence_and_partition_completeness) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 0.033s
+
+OK

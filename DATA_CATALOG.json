@@ -1,0 +1,56 @@
+[
+  {
+    "instrument": {
+      "symbol": "BTCUSDT",
+      "asset_class": "crypto_spot",
+      "quote": "USDT",
+      "periods_per_year": 365,
+      "calendar": "daily_24x7"
+    },
+    "url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCUSDT&interval=1d&startTime=1735689600000&endTime=1767225599999&limit=1000",
+    "fetched_utc": "2026-09-08T05:03:24.367353+00:00",
+    "rows": 365,
+    "raw_file": "data/BTCUSDT_2025.raw.json",
+    "raw_sha256": "3bc3222ceea83a7d4cbd7ddc22f20c412089beac10ddb17f3dea5e3d92c76ab7",
+    "normalized_file": "data/BTCUSDT_2025.csv",
+    "normalized_sha256": "cf4decc95f9351896af8362ea3f9df526c7b089ae5ae9eea2e275bfc56187093",
+    "availability": "ASSUMED_close_time_plus_1_second",
+    "license": "Public endpoint; redistribution rights not independently established"
+  },
+  {
+    "instrument": {
+      "symbol": "ETHUSDT",
+      "asset_class": "crypto_spot",
+      "quote": "USDT",
+      "periods_per_year": 365,
+      "calendar": "daily_24x7"
+    },
+    "url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=1d&startTime=1735689600000&endTime=1767225599999&limit=1000",
+    "fetched_utc": "2026-09-08T05:03:25.989826+00:00",
+    "rows": 365,
+    "raw_file": "data/ETHUSDT_2025.raw.json",
+    "raw_sha256": "bde55cdfd3e747d3246bab1a23c1117ae7ea1c336342367b015de982636378dd",
+    "normalized_file": "data/ETHUSDT_2025.csv",
+    "normalized_sha256": "d6b3d92c2292e66fdba43bc65fe776354a2267307d52e568b7ac4c38fa306d8e",
+    "availability": "ASSUMED_close_time_plus_1_second",
+    "license": "Public endpoint; redistribution rights not independently established"
+  },
+  {
+    "instrument": {
+      "symbol": "SOLUSDT",
+      "asset_class": "crypto_spot",
+      "quote": "USDT",
+      "periods_per_year": 365,
+      "calendar": "daily_24x7"
+    },
+    "url": "https://data-api.binance.vision/api/v3/klines?symbol=SOLUSDT&interval=1d&startTime=1735689600000&endTime=1767225599999&limit=1000",
+    "fetched_utc": "2026-09-08T05:03:27.412071+00:00",
+    "rows": 365,
+    "raw_file": "data/SOLUSDT_2025.raw.json",
+    "raw_sha256": "51e27e96587eb220071ae497c98fc0aa4bd1c90382b0bf88f5c0c3c837f226e1",
+    "normalized_file": "data/SOLUSDT_2025.csv",
+    "normalized_sha256": "d023e29c0db4521c0870fcf051b42d61c400243598d511bfa3048b6fd886033c",
+    "availability": "ASSUMED_close_time_plus_1_second",
+    "license": "Public endpoint; redistribution rights not independently established"
+  }
+]

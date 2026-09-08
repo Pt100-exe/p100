@@ -1,0 +1,11 @@
+{
+  "purpose": "Illustrative engineering configuration; never fitted to market data",
+  "units": "exposures in equity fractions; volatilities in annualized decimal units",
+  "feature": {"lookback_observations": 2},
+  "regime": {"trend_threshold": 0.02, "low_vol": 0.2, "high_vol": 0.6},
+  "strategy": {"core": 0.4, "tactical_up": 0.3, "tactical_down": -0.3, "tactical_flat": 0.0},
+  "risk": {"target_annual_vol": 0.2, "max_exposure": 1.0, "min_tactical_confidence": 0.5},
+  "temporal": {"pre_validation_gap_seconds": 0},
+  "market_data": null,
+  "new_holdout": null
+}

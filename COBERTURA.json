@@ -1,0 +1,11 @@
+{
+  "turns": 14,
+  "messages": 27,
+  "truncated": 1,
+  "characters": 108281,
+  "code_blocks": 100,
+  "tables": 14,
+  "opaque_references": 22,
+  "oldest": "2026-09-06T23:21:24.495426+00:00",
+  "newest": "2026-09-08T00:52:31.196000+00:00"
+}

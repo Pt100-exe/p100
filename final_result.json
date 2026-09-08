@@ -1,0 +1,12 @@
+{
+  "archive": "C:\\Users\\Patrick\\.codex\\.chatgpt-projects\\g-p-6a9f5b2bbcb481919568bfd25581c0fd\\P100_Transferencia_Codex_2026-09-07.zip",
+  "archive_bytes": 3523136,
+  "archive_sha256": "6e17b4635914d600c3aaccc9497e22d9f5dbca7f2a88ba119aa77f79302fe2c9",
+  "files_in_archive": 57,
+  "manifest_files_checked": 55,
+  "document_pages": 186,
+  "source_messages": 27,
+  "new_tests_passed": 38,
+  "historical_recovery": "INCOMPLETE_EXPLICIT_GAPS",
+  "zip_crc_and_content_hashes": "PASS"
+}

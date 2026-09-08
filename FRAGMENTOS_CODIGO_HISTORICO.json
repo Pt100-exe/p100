@@ -1,0 +1,702 @@
+[
+  {
+    "ref": "T02M2C1",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "dataset_id\nprovider\nsymbol\nmarket\ntimeframe\ndownloaded_at\nevent_timestamp\navailable_at\nraw_sha256\nnormalized_sha256\nschema_version\nrows\nstart\nend\ngaps\nduplicates\ncode_version\n"
+  },
+  {
+    "ref": "T02M2C2",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "python",
+    "content": "SimulationClock\nPaperClock\n"
+  },
+  {
+    "ref": "T02M2C3",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "OrderIntent\nOrderRequest\nOrderAccepted\nOrderRejected\nOrderPartiallyFilled\nOrderFilled\nOrderCanceled\nOrderExpired\n"
+  },
+  {
+    "ref": "T02M2C4",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "market\nlimit\nstop\n"
+  },
+  {
+    "ref": "T02M2C5",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "Nuestro estado:\nBTC = 0.014\ncash = X\norders = [...]\n\nBroker:\nBTC = 0.014\ncash = X\norders = [...]\n"
+  },
+  {
+    "ref": "T02M2C6",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "sequence\nevent_id\ntimestamp\nevent_type\npayload\nprevious_hash\nevent_hash\ncode_version\nconfig_hash\ndataset_hash\n"
+  },
+  {
+    "ref": "T02M2C7",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "python",
+    "content": "periods_per_year = 24 * 365\n"
+  },
+  {
+    "ref": "T02M2C8",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "yaml",
+    "content": "market:\n  calendar: crypto_24_7\n  timeframe: 1h\n"
+  },
+  {
+    "ref": "T02M2C9",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "CRYPTO_24_7\nNYSE\nNASDAQ\n...\n"
+  },
+  {
+    "ref": "T02M2C10",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "strategies/examples/sma_cross.py\n"
+  },
+  {
+    "ref": "T02M2C11",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "python",
+    "content": "symbol=\"SYNTH\"\n"
+  },
+  {
+    "ref": "T02M2C12",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "python",
+    "content": "max_daily_loss_fraction=0.10\nmax_drawdown_fraction=0.50\n"
+  },
+  {
+    "ref": "T02M2C13",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "yaml",
+    "content": "live_exchange_enabled: false\nwithdrawals_enabled: false\n"
+  },
+  {
+    "ref": "T02M2C14",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "python",
+    "content": "risk.reset_kill()\n"
+  },
+  {
+    "ref": "T02M2C15",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "HALTED\n↓\ndiagnóstico\n↓\nreconciliación\n↓\nhuman approval\n↓\nARMED\n"
+  },
+  {
+    "ref": "T02M2C16",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "DATA VALIDATION: PASS\nTEMPORAL INTEGRITY: PASS\nRISK TESTS: PASS\nRECONCILIATION: PASS\nOUT-OF-SAMPLE: NOT AVAILABLE\nLIVE AUTHORIZATION: NO-GO\n"
+  },
+  {
+    "ref": "T02M2C17",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "Baseline lineal\nRandom Forest\nGradient boosting\n"
+  },
+  {
+    "ref": "T02M2C18",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "timestamp\nprediction\nprobability/confidence\nmodel_version\nfeature_version\ndataset_version\n"
+  },
+  {
+    "ref": "T02M2C19",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "Research Assistant\n├─ documentación del exchange\n├─ cambios de API\n├─ papers\n├─ informes\n├─ normativa\n└─ documentación interna\n"
+  },
+  {
+    "ref": "T02M2C20",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "json",
+    "content": "{\n  \"finding\": \"...\",\n  \"sources\": [],\n  \"confidence\": 0.71\n}\n"
+  },
+  {
+    "ref": "T02M2C21",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "json",
+    "content": "{\"order\": \"BUY BTC\"}\n"
+  },
+  {
+    "ref": "T02M2C22",
+    "source": "T02M2",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "language": "text",
+    "content": "QUANT SYSTEM v3\n│\n├── DATA\n│   ├── connectors\n│   ├── raw immutable\n│   ├── normalized\n│   ├── catalog\n│   └── validation\n│\n├── RESEARCH\n│   ├── datasets\n│   ├── features\n│   ├── strategies\n│   ├── models\n│   ├── walk-forward\n│   └── experiments\n│\n├── ENGINE\n│   ├── events\n│   ├── clock\n│   ├── portfolio\n│   ├── orders\n│   └── accounting\n│\n├── RISK\n│   ├── exposure\n│   ├── loss limits\n│   ├── price collars\n│   ├── stale data\n│   ├── reduce-only\n│   ├── emergency flatten\n│   └── kill switch\n│\n├── EXECUTION\n│   ├── simulator\n│   └── paper adapter\n│\n├── OBSERVABILITY\n│   ├── audit\n│   ├── metrics\n│   ├── alerts\n│   └── reconciliation\n│\n├── AI\n│   ├── shadow models\n│   ├── calibration\n│   ├── drift\n│   └── optional RAG\n│\n└── UI\n    ├── dashboard\n    ├── experiments\n    ├── portfolio\n    ├── risk state\n    └── kill switch\n"
+  },
+  {
+    "ref": "T04M2C1",
+    "source": "T04M2",
+    "message_id": "7e663b03-d4d1-4747-955d-967fd52e7705",
+    "language": "text",
+    "content": "5%\n10%\n15%\n25%\n35%\n50%\n75%\n95%\n"
+  },
+  {
+    "ref": "T06M2C1",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "random_walk\ndrift_up\ndrift_down\nmean_revert\nhigh_vol\nlow_vol\nregime_switch\njump_crash\ntrend_reversal\nvol_cluster\nflat\nalternating\ngap_up\ngap_down\nar_mean_revert\n"
+  },
+  {
+    "ref": "T06M2C2",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "posición actual = +50%\norden objetivo = -20%\n"
+  },
+  {
+    "ref": "T06M2C3",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "|-20| < |+50|\n"
+  },
+  {
+    "ref": "T06M2C4",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "aumentar riesgo       ❌\ninvertir posición     ❌\nabrir nueva posición  ❌\n\nreducir posición      ✅\ncerrar/flatten        ✅\n"
+  },
+  {
+    "ref": "T06M2C5",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "final_equity\nequity_curve[-1]\n"
+  },
+  {
+    "ref": "T06M2C6",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "flat\nalternating\ngap_up\ngap_down\nar_mean_revert\n"
+  },
+  {
+    "ref": "T06M2C7",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "SMA aggressive:\nretorno ≈ +3.35%\nDD ≈ 18.84%\n\nSMA adaptive:\nretorno ≈ +1.90%\nDD ≈ 12.14%\n"
+  },
+  {
+    "ref": "T06M2C8",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "shadow predictions\ncalibration\nfeature research\ndrift\nregime detection\nensemble research\n"
+  },
+  {
+    "ref": "T06M2C9",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "zero\nlow\nbase\nmedium/high\nextreme\n"
+  },
+  {
+    "ref": "T06M2C10",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "0 costes       ≈ +14.1%\ncoste base     ≈ -1.4%\ncoste medio    ≈ -13.6%\ncoste alto     ≈ -45.0%\nextremo        ≈ -73.5%\n"
+  },
+  {
+    "ref": "T06M2C11",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "0 costes       +2.5%\nbase           -3.5%\nalto          -24.3%\nextremo       -44.1%\n"
+  },
+  {
+    "ref": "T06M2C12",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "0 costes       +1.9%\nbase           -4.6%\nalto          -26.6%\nextremo       -47.2%\n"
+  },
+  {
+    "ref": "T06M2C13",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "10%\n25%\n40%\n60%\n75%\n95%\n"
+  },
+  {
+    "ref": "T06M2C14",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "Logistic one-shot:\nretorno ≈ -0.32%\n\nLogistic walk-forward:\n≈ -0.31%\n"
+  },
+  {
+    "ref": "T06M2C15",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "one-shot ≈ -0.40%\nwalk-forward ≈ -0.44%\n"
+  },
+  {
+    "ref": "T06M2C16",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "one-shot ≈ -1.01%\nwalk-forward ≈ -0.95%\n"
+  },
+  {
+    "ref": "T06M2C17",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "one-shot ≈ -0.62%\nwalk-forward ≈ -0.52%\n"
+  },
+  {
+    "ref": "T06M2C18",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "0.50\n0.52\n0.55\n0.60\n"
+  },
+  {
+    "ref": "T06M2C19",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "return medio  -1.18%\ndesv. entre seeds ~0.34%\n"
+  },
+  {
+    "ref": "T06M2C20",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "-1.11%\ndesv. ~0.45%\n"
+  },
+  {
+    "ref": "T06M2C21",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "-2.07%\ndesv. ~0.61%\n"
+  },
+  {
+    "ref": "T06M2C22",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "equity finita\nmétricas finitas\ndrawdown válido\nexposición dentro del límite\ncurva sin NaN/inf\ncapital contabilizable\n"
+  },
+  {
+    "ref": "T06M2C23",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "datos\nseed\nmodelo\nconfiguración\ncostes\nriesgo\n"
+  },
+  {
+    "ref": "T06M2C24",
+    "source": "T06M2",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "language": "text",
+    "content": "v0.1:\nfee = 5 bps\nslippage = 3 bps\n\nv0.3.1:\nfee = 5\nslippage = 3\nhalf spread = 0\n"
+  },
+  {
+    "ref": "T09M2C1",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "UP\nDOWN\n"
+  },
+  {
+    "ref": "T09M2C2",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "expected_return = +0.0038\nprob_positive = 0.64\nexpected_cost = 0.0011\nexpected_edge = +0.0027\n"
+  },
+  {
+    "ref": "T09M2C3",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "expected_edge > mínimo requerido\n"
+  },
+  {
+    "ref": "T09M2C4",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "LONG\nSHORT\n"
+  },
+  {
+    "ref": "T09M2C5",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "LONG\nCASH\nSHORT\n"
+  },
+  {
+    "ref": "T09M2C6",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "P(up) > 0.62 → LONG\nP(up) < 0.38 → SHORT\n0.38–0.62 → NO TRADE\n"
+  },
+  {
+    "ref": "T09M2C7",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "BTC 2017–2026\nETH 2018–2026\nSOL\nBNB\notros activos líquidos\n"
+  },
+  {
+    "ref": "T09M2C8",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "1h\n4h\n1d\n"
+  },
+  {
+    "ref": "T09M2C9",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "asset\ntimestamp\ntimeframe\nexchange\navailable_at\nmarket regime\n"
+  },
+  {
+    "ref": "T09M2C10",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "                REGIME DETECTOR\n                      │\n          ┌───────────┼───────────┐\n          ▼           ▼           ▼\n       TREND       SIDEWAYS    HIGH VOL\n          │           │           │\n        SMA          MR        DEFENSIVE\n          └───────────┴───────────┘\n                      │\n                 Risk Engine\n"
+  },
+  {
+    "ref": "T09M2C11",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "señal fuerte\n+\nbaja volatilidad\n+\ndrawdown pequeño\n=\n0.80 exposición\n"
+  },
+  {
+    "ref": "T09M2C12",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "señal mediocre\n+\nvolatilidad alta\n+\nmodelo degradándose\n=\n0.15 exposición\n"
+  },
+  {
+    "ref": "T09M2C13",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "Modelo A → probabilidad de subida\nModelo B → magnitud del retorno\nModelo C → volatilidad esperada\nModelo D → régimen\nModelo E → riesgo de movimiento extremo\n"
+  },
+  {
+    "ref": "T09M2C14",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "P(up) = 0.67\nexpected return = +0.8%\nexpected vol = high\ncrash probability = elevated\n"
+  },
+  {
+    "ref": "T09M2C15",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "Logistic\nRandom Forest\nExtra Trees\nGradient Boosting\nMLP\n"
+  },
+  {
+    "ref": "T09M2C16",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "LR + RF + HGB / 3\n"
+  },
+  {
+    "ref": "T09M2C17",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "if regime == trend:\n    60% SMA\n    25% RF\n    15% MLP\n\nif regime == mean_revert:\n    60% MeanReversion\n    25% RF\n    15% Logistic\n\nif regime == uncertain:\n    CASH\n"
+  },
+  {
+    "ref": "T09M2C18",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "return / drawdown\nreturn / exposure\nalpha vs benchmark\nbeta\ncapture ratio\nrisk-adjusted excess return\ntime underwater\ntail loss\n"
+  },
+  {
+    "ref": "T09M2C19",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "BTC\nETH\nSOL\nCASH\n"
+  },
+  {
+    "ref": "T09M2C20",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "RF historical accuracy last 50 = 53%\nRF calibration error = low\nregime similarity = high\nvolatility = normal\ndrift = low\n\n→ model confidence = 0.73\n"
+  },
+  {
+    "ref": "T09M2C21",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "accuracy collapsing\nnew regime\nfeatures out-of-distribution\n\n→ model confidence = 0.18\n→ NO TRADE\n"
+  },
+  {
+    "ref": "T09M2C22",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "feature distribution drift\nprediction drift\ncalibration drift\nperformance drift\nregime drift\n"
+  },
+  {
+    "ref": "T09M2C23",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "NORMAL\n↓\nCAUTION\n↓\nREDUCE\n↓\nHALT\n"
+  },
+  {
+    "ref": "T09M2C24",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "código\nfeatures\nhyperparameters\nrisk limits\nestrategias\nthresholds\n"
+  },
+  {
+    "ref": "T09M2C25",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "vela nueva\n↓\npredicción\n↓\ndecisión\n↓\norden ficticia\n↓\nresultado\n"
+  },
+  {
+    "ref": "T09M2C26",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "expected\nvs\nactual\n"
+  },
+  {
+    "ref": "T09M2C27",
+    "source": "T09M2",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "language": "text",
+    "content": "REAL MULTI-ASSET DATA\n        ↓\nFEATURE STORE\n        ↓\nREGIME DETECTOR\n        ↓\n┌────────────┬───────────────┬─────────────┐\n│ SMA/TREND  │ MEAN REVERT   │ ML MODELS   │\n└────────────┴───────────────┴─────────────┘\n        ↓\nMETA MODEL / CONFIDENCE\n        ↓\nECONOMIC EDGE FILTER\n        ↓\nNO-TRADE ZONE\n        ↓\nDYNAMIC POSITION SIZING\n        ↓\nRISK ENGINE\n        ↓\nEXECUTION\n"
+  },
+  {
+    "ref": "T10M2C1",
+    "source": "T10M2",
+    "message_id": "93136b8a-71c4-46de-9cb9-b6abbff3cf34",
+    "language": "text",
+    "content": "Ridge              71.5%\nRandom Forest      28.5%\nExtra Trees         0%\nHistGB              0%\nMLP                 0%\n"
+  },
+  {
+    "ref": "T11M2C1",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Trend / Mean-Reversion / otra hipótesis\n                ↓\n       propone una operación\n                ↓\n              ML\n     \"¿vale la pena tomarla?\"\n                ↓\n          Risk / Sizing\n                ↓\n          Trade o Cash\n"
+  },
+  {
+    "ref": "T11M2C2",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "¿BTC o CASH?\n"
+  },
+  {
+    "ref": "T11M2C3",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "CORE EXPOSURE\n      +\nTACTICAL OVERLAY\n"
+  },
+  {
+    "ref": "T11M2C4",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Base:\n30%-50% exposición estratégica\n\nTactical model:\n-30% ... +50%\n\nResultado:\n0%-100%\n"
+  },
+  {
+    "ref": "T11M2C5",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "python",
+    "content": "if high_vol:\n    return \"high_vol\"\nelif trend:\n    return \"trend\"\n"
+  },
+  {
+    "ref": "T11M2C6",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Trend:\nUP / DOWN / FLAT\n\nVolatility:\nLOW / NORMAL / HIGH\n\nStructure:\nTRENDING / MEAN-REVERTING / UNCERTAIN\n"
+  },
+  {
+    "ref": "T11M2C7",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "UP + HIGH_VOL + TRENDING\n"
+  },
+  {
+    "ref": "T11M2C8",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "DOWN + HIGH_VOL + TRENDING\n"
+  },
+  {
+    "ref": "T11M2C9",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "python",
+    "content": "0.95\n× vol_scale\n× regime_factor\n× confidence\n"
+  },
+  {
+    "ref": "T11M2C10",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "0.95 × 0.7 × 0.55 × 0.5 = 18.3%\n"
+  },
+  {
+    "ref": "T11M2C11",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "expected_return = +0.4%\n"
+  },
+  {
+    "ref": "T11M2C12",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Expected edge: +0.40%\nPrediction interval: -1.20% ... +2.00%\n"
+  },
+  {
+    "ref": "T11M2C13",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Expected edge: +0.80%\nInterval: +0.25% ... +1.35%\nEstimated costs: 0.10%\n"
+  },
+  {
+    "ref": "T11M2C14",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "predicción > 0\n"
+  },
+  {
+    "ref": "T11M2C15",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "lower_confidence_bound > expected_cost + margin\n"
+  },
+  {
+    "ref": "T11M2C16",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "BTC\nETH\nSOL\nquizá BNB\n"
+  },
+  {
+    "ref": "T11M2C17",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "1h\n4h\n1d\n"
+  },
+  {
+    "ref": "T11M2C18",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "RSI 7\nRSI 9\nRSI 12\nRSI 21\nSMA 17\nSMA 23\n"
+  },
+  {
+    "ref": "T11M2C19",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Ridge / Elastic Net\nRandom Forest\nGradient Boosting simple\n"
+  },
+  {
+    "ref": "T11M2C20",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "Fold 1 → train → future validation\nFold 2 → train → future validation\nFold 3 → train → future validation\nFold 4 → train → future validation\n"
+  },
+  {
+    "ref": "T11M2C21",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "net economic utility\n- transaction costs\n- drawdown penalty\n- instability penalty\n"
+  },
+  {
+    "ref": "T11M2C22",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "LONG:\nevidencia > A\n\nCASH:\nriesgo elevado\n\nSHORT:\nevidencia bajista > B\ndonde B >> A\n"
+  },
+  {
+    "ref": "T11M2C23",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "datos futuros modificados\n↓\nrecalcular TODAS las features\n↓\nrecalcular regímenes\n↓\nrecalcular modelo\n↓\nrecalcular señales históricas\n"
+  },
+  {
+    "ref": "T11M2C24",
+    "source": "T11M2",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "language": "text",
+    "content": "          REAL DATA — MULTI-ASSET / MULTI-TIMEFRAME\n                           ↓\n                      FEATURE STORE\n                           ↓\n               MULTI-AXIS REGIME ENGINE\n                           ↓\n              ┌────────────┴────────────┐\n              │                         │\n       CORE EXPOSURE             TACTICAL SIGNALS\n              │              Trend / MR / Breakout\n              │                         │\n              └────────────┬────────────┘\n                           ↓\n                    META-LABEL ML\n                   \"take / reject?\"\n                           ↓\n                 DOWNSIDE / TAIL MODEL\n                           ↓\n                 UNCERTAINTY FILTER\n                           ↓\n                    POSITION SIZING\n                           ↓\n                      RISK ENGINE\n                           ↓\n                       EXECUTION\n"
+  },
+  {
+    "ref": "T12M2C1",
+    "source": "T12M2",
+    "message_id": "5cc1beaa-de29-43f5-bc9c-d6da10cb5902",
+    "language": "bash",
+    "content": "git init\ngit add .\ngit commit -m \"Baseline quant-system v0.5\"\n"
+  }
+]

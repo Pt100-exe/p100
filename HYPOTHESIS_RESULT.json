@@ -1,0 +1,34 @@
+{
+  "promote_band": true,
+  "decisions": [
+    {
+      "symbol": "BTCUSDT",
+      "H1_costs": true,
+      "H2_degradation": true,
+      "return_delta": -0.0007907991514806145,
+      "drawdown_delta": 5.59265924195973e-05,
+      "turnover_delta": -0.8257747207272814,
+      "costs_delta": -13.240500309763888
+    },
+    {
+      "symbol": "ETHUSDT",
+      "H1_costs": true,
+      "H2_degradation": true,
+      "return_delta": -0.004917273003591127,
+      "drawdown_delta": 0.0008256179609472669,
+      "turnover_delta": -1.2381453403565796,
+      "costs_delta": -20.465336468054602
+    },
+    {
+      "symbol": "SOLUSDT",
+      "H1_costs": true,
+      "H2_degradation": true,
+      "return_delta": 0.012369161238981574,
+      "drawdown_delta": 0.009739831006559285,
+      "turnover_delta": -1.1295722689114607,
+      "costs_delta": -17.013345737590193
+    }
+  ],
+  "runs": 45,
+  "status": "DEVELOPMENT_RESULT_NOT_PROOF_OF_ALPHA"
+}

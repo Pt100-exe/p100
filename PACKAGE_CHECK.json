@@ -1,0 +1,44 @@
+{
+  "manifest_verification": {
+    "status": "PASS",
+    "files_checked": 55,
+    "errors": []
+  },
+  "source_message_preservation": {
+    "messages_checked": 27,
+    "literal_and_editable": "PASS"
+  },
+  "new_python_source_in_editable": "PASS",
+  "historical_experiment_groups": 20,
+  "reported_battery_arithmetic": 5878,
+  "new_component_freeze": {
+    "errors": [],
+    "status": "PASS"
+  },
+  "pdf_qa": {
+    "pages": 186,
+    "body_pages": 137,
+    "geometry_issues": [],
+    "annex_checks": [
+      {
+        "source": "PDFM1000v2.pdf",
+        "pages": 35,
+        "text_identical": true
+      },
+      {
+        "source": "PDFM1000.pdf",
+        "pages": 14,
+        "text_identical": true
+      }
+    ],
+    "toc_link_annotations": 58,
+    "source_markers_normalized": true,
+    "chapter_page_checks": "PASS"
+  },
+  "historical_backtests_reproduced": false,
+  "remaining_gaps": [
+    "Original prototype ZIPs, market CSV and raw results/config/tests/logs",
+    "Remainder of message 69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "Opaque historical artifact references"
+  ]
+}

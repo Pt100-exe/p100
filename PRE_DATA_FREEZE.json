@@ -1,0 +1,51 @@
+{
+  "created_utc": "2026-09-08T05:03:22.719066+00:00",
+  "experiment": "study_002",
+  "status": "HISTORICAL_DEVELOPMENT_NOT_UNSEEN_HOLDOUT",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "SOLUSDT"
+  ],
+  "start": "2025-01-01T00:00:00+00:00",
+  "end_exclusive": "2026-01-01T00:00:00+00:00",
+  "policies": [
+    "cash",
+    "buy_hold",
+    "core_risk",
+    "core_tactical_risk",
+    "core_tactical_band"
+  ],
+  "fees_bps": [
+    0,
+    10,
+    30
+  ],
+  "latency_assumed_seconds": 1,
+  "band": 0.05,
+  "hashes": {
+    "PROTOCOL_002.md": "cf3234db23c47aa5df6040cce3d1c49ea5ecfbbe45e6364f625cd57783ec3857",
+    "market_lab/__init__.py": "c162eceb4357527c9be7dbb0607ad3511ceed780b6d24b977577be3bf9d0cbef",
+    "market_lab/data.py": "c6eaa0d66996bf20f65e75c70231b3674fabbe3f4d3dae0f5091f3acfbb56f0e",
+    "market_lab/execution.py": "c22aa1aa50d8c4cc8a9d240cc814c72271beca802c515317a240b3dbe1bf5e20",
+    "market_lab/signals.py": "a73007702abfe67a7045446559f9de31866903cd65e2ff0b3c15897af2448d51",
+    "market_lab/study.py": "cb4806f8027375e1e94387bbd17046fe984b88f377a050e48bfedade7075c47a",
+    "p100_lab/__init__.py": "eb1d7af5f82faaba8d9b57b0c0e9a6fef0402806b74ee66722b98a8ad3a2c9ed",
+    "p100_lab/engine.py": "d24adba7ea0de36ccbe54cf39389c649f12b9b22b5ad1de056c675168442c22d",
+    "p100_lab/experiment.py": "085a6809140a4380cd024293c074b2d117cc6a543ddb264bf7ad35bc7d374465",
+    "p100_lab/signals.py": "8329680724a4fbf4a312b9882b732da9e5159f6713f10f0ece6f2658105249dc",
+    "p100_foundations/__init__.py": "8b84c8641c0b0b30a2224ebeaf4bdd25e99e09511f2b6190dee5fe777bf2e001",
+    "p100_foundations/__main__.py": "3439a233b28a74d6b0f15d804b4fbf0e296c0c7ca452d4637eb1f6389466a26d",
+    "p100_foundations/features.py": "3a47bd7ac18abe923e53e1ee989eaf9ae80dee052c8955bc7d7df029aa90bbe2",
+    "p100_foundations/freeze.py": "fa56206f37aa4ef4b1376c7f53e213b9828901aa462bbd94c471f97ff78c53d5",
+    "p100_foundations/regimes.py": "d17817e00781b9d7644e380cfb4e34d4457a4c263d41fbe874ca04c1c14d2e89",
+    "p100_foundations/registry.py": "231667c9e80d42a4ef6a58aaa72c0c6be378521753ac57c8c2fad874971d3361",
+    "p100_foundations/risk.py": "ea730a485aee91bfad13abd6f7eec1799972857e6c9faf9be700b1e2a10aa408",
+    "p100_foundations/strategy.py": "ca5a947ecd4e35b3a30d7ef8a7ed56abd0a90c0053a467b34aac6a05cf5955e8",
+    "p100_foundations/temporal.py": "9510d9973a579a8f9d5cfc08bb00660461d532dddcf90af98179eb6093155f1f",
+    "p100_foundations/validation.py": "69bddf36fb22d205b7f90996b1bad9cdee1536994c33a8b15f4c30a06cca20f0",
+    "tests/test_engine.py": "0194acc36e9ccb4baa58a2c1289e1a2d0b3df66c3c2f3e3b464493531724d94f",
+    "tests/test_foundations.py": "26133776819bb1cb76b52296f27cefe024cf5e1c024bc2889068b2274df4b694",
+    "tests/test_market.py": "1cdd918e8e505f9752fc1068b5dc833d39de4f973ae2512236d32e1349b704d0"
+  }
+}

@@ -1,0 +1,245 @@
+[
+  {
+    "ref": "T01M1",
+    "turn_id": "8dfa30bc-6dc8-44e1-be57-aa1356b5fc35",
+    "message_id": "8dfa30bc-6dc8-44e1-be57-aa1356b5fc35",
+    "role": "Patrick",
+    "chars": 411,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:21:24.495426+00:00"
+  },
+  {
+    "ref": "T01M2",
+    "turn_id": "8dfa30bc-6dc8-44e1-be57-aa1356b5fc35",
+    "message_id": "490a0916-4eb8-4285-a127-79832daba466",
+    "role": "Asistente histórico",
+    "chars": 5314,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:21:24.495426+00:00"
+  },
+  {
+    "ref": "T02M1",
+    "turn_id": "f15e379c-e2c0-4a64-a414-cd4635907d8a",
+    "message_id": "f15e379c-e2c0-4a64-a414-cd4635907d8a",
+    "role": "Patrick",
+    "chars": 208,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:37:09.654934+00:00"
+  },
+  {
+    "ref": "T02M2",
+    "turn_id": "f15e379c-e2c0-4a64-a414-cd4635907d8a",
+    "message_id": "aff45b65-8047-4b15-be33-a76aefee4a47",
+    "role": "Asistente histórico",
+    "chars": 18428,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:37:09.654934+00:00"
+  },
+  {
+    "ref": "T03M1",
+    "turn_id": "96147a9e-2e27-42a6-9bb9-48ba3531ead8",
+    "message_id": "96147a9e-2e27-42a6-9bb9-48ba3531ead8",
+    "role": "Patrick",
+    "chars": 224,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:40:44.554095+00:00"
+  },
+  {
+    "ref": "T03M2",
+    "turn_id": "96147a9e-2e27-42a6-9bb9-48ba3531ead8",
+    "message_id": "d098a754-540a-4a7c-8f96-ccf2065bb92a",
+    "role": "Asistente histórico",
+    "chars": 4257,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:40:44.554095+00:00"
+  },
+  {
+    "ref": "T04M1",
+    "turn_id": "ba96510a-aba3-43b6-9dc5-4e5dba3873ec",
+    "message_id": "ba96510a-aba3-43b6-9dc5-4e5dba3873ec",
+    "role": "Patrick",
+    "chars": 88,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:41:41.568074+00:00"
+  },
+  {
+    "ref": "T04M2",
+    "turn_id": "ba96510a-aba3-43b6-9dc5-4e5dba3873ec",
+    "message_id": "7e663b03-d4d1-4747-955d-967fd52e7705",
+    "role": "Asistente histórico",
+    "chars": 5246,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:41:41.568074+00:00"
+  },
+  {
+    "ref": "T05M1",
+    "turn_id": "6d6cd75a-be86-48a9-bddf-f0eb2f05d0d9",
+    "message_id": "6d6cd75a-be86-48a9-bddf-f0eb2f05d0d9",
+    "role": "Patrick",
+    "chars": 408,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:45:34.477535+00:00"
+  },
+  {
+    "ref": "T06M1",
+    "turn_id": "2b865c46-8da9-45b2-869d-acc9411534d9",
+    "message_id": "2b865c46-8da9-45b2-869d-acc9411534d9",
+    "role": "Patrick",
+    "chars": 408,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-06T23:56:52.319234+00:00"
+  },
+  {
+    "ref": "T06M2",
+    "turn_id": "2b865c46-8da9-45b2-869d-acc9411534d9",
+    "message_id": "69184771-b0a3-4e0e-aeef-ee06818cb816",
+    "role": "Asistente histórico",
+    "chars": 19993,
+    "potentially_truncated": true,
+    "started_at_utc": "2026-09-06T23:56:52.319234+00:00"
+  },
+  {
+    "ref": "T07M1",
+    "turn_id": "34c34b8d-b4e0-4fb5-b1ba-11f4c68467d5",
+    "message_id": "34c34b8d-b4e0-4fb5-b1ba-11f4c68467d5",
+    "role": "Patrick",
+    "chars": 12,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T00:44:09.335388+00:00"
+  },
+  {
+    "ref": "T07M2",
+    "turn_id": "34c34b8d-b4e0-4fb5-b1ba-11f4c68467d5",
+    "message_id": "2c86b819-42c0-4ce4-bab0-6796e35a6c72",
+    "role": "Asistente histórico",
+    "chars": 15,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T00:44:09.335388+00:00"
+  },
+  {
+    "ref": "T08M1",
+    "turn_id": "88a1be21-91b9-4869-94cc-5b95c76eb84d",
+    "message_id": "88a1be21-91b9-4869-94cc-5b95c76eb84d",
+    "role": "Patrick",
+    "chars": 192,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:28:47.230622+00:00"
+  },
+  {
+    "ref": "T08M2",
+    "turn_id": "88a1be21-91b9-4869-94cc-5b95c76eb84d",
+    "message_id": "da278096-36cd-45dd-9452-3de4f778857e",
+    "role": "Asistente histórico",
+    "chars": 6637,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:28:47.230622+00:00"
+  },
+  {
+    "ref": "T09M1",
+    "turn_id": "de474ce3-ce84-4b2a-be84-618232e18bb0",
+    "message_id": "de474ce3-ce84-4b2a-be84-618232e18bb0",
+    "role": "Patrick",
+    "chars": 107,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:36:42.688842+00:00"
+  },
+  {
+    "ref": "T09M2",
+    "turn_id": "de474ce3-ce84-4b2a-be84-618232e18bb0",
+    "message_id": "e8784854-952e-4601-b786-77d2f76ddd47",
+    "role": "Asistente histórico",
+    "chars": 14476,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:36:42.688842+00:00"
+  },
+  {
+    "ref": "T10M1",
+    "turn_id": "09c0e3b0-9d00-4ba6-a6e9-94ac70a95cfe",
+    "message_id": "09c0e3b0-9d00-4ba6-a6e9-94ac70a95cfe",
+    "role": "Patrick",
+    "chars": 164,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:39:00.209214+00:00"
+  },
+  {
+    "ref": "T10M2",
+    "turn_id": "09c0e3b0-9d00-4ba6-a6e9-94ac70a95cfe",
+    "message_id": "93136b8a-71c4-46de-9cb9-b6abbff3cf34",
+    "role": "Asistente histórico",
+    "chars": 8875,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T01:39:00.209214+00:00"
+  },
+  {
+    "ref": "T11M1",
+    "turn_id": "1ce039a8-9ff9-42a9-8c98-b4dea8266133",
+    "message_id": "1ce039a8-9ff9-42a9-8c98-b4dea8266133",
+    "role": "Patrick",
+    "chars": 94,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T02:50:03.470289+00:00"
+  },
+  {
+    "ref": "T11M2",
+    "turn_id": "1ce039a8-9ff9-42a9-8c98-b4dea8266133",
+    "message_id": "006998a6-5c51-4e74-81af-e30848f810e6",
+    "role": "Asistente histórico",
+    "chars": 14580,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-07T02:50:03.470289+00:00"
+  },
+  {
+    "ref": "T12M1",
+    "turn_id": "1fcf304b-98ba-49dd-bba0-7139083f3983",
+    "message_id": "1fcf304b-98ba-49dd-bba0-7139083f3983",
+    "role": "Patrick",
+    "chars": 57,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:50:10.007000+00:00"
+  },
+  {
+    "ref": "T12M2",
+    "turn_id": "1fcf304b-98ba-49dd-bba0-7139083f3983",
+    "message_id": "5cc1beaa-de29-43f5-bc9c-d6da10cb5902",
+    "role": "Asistente histórico",
+    "chars": 3729,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:50:10.007000+00:00"
+  },
+  {
+    "ref": "T13M1",
+    "turn_id": "cd7940b2-3d6d-451f-b78a-bc4294f3c5a9",
+    "message_id": "cd7940b2-3d6d-451f-b78a-bc4294f3c5a9",
+    "role": "Patrick",
+    "chars": 92,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:51:16.653000+00:00"
+  },
+  {
+    "ref": "T13M2",
+    "turn_id": "cd7940b2-3d6d-451f-b78a-bc4294f3c5a9",
+    "message_id": "ded728f5-cd95-4d15-91cc-e80361bdbb1e",
+    "role": "Asistente histórico",
+    "chars": 3230,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:51:16.653000+00:00"
+  },
+  {
+    "ref": "T14M1",
+    "turn_id": "ad1648cf-1ebc-47b9-83d9-976591e45f95",
+    "message_id": "ad1648cf-1ebc-47b9-83d9-976591e45f95",
+    "role": "Patrick",
+    "chars": 67,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:52:31.196000+00:00"
+  },
+  {
+    "ref": "T14M2",
+    "turn_id": "ad1648cf-1ebc-47b9-83d9-976591e45f95",
+    "message_id": "89a5b57c-05b1-483b-832f-83658489c2a2",
+    "role": "Asistente histórico",
+    "chars": 969,
+    "potentially_truncated": false,
+    "started_at_utc": "2026-09-08T00:52:31.196000+00:00"
+  }
+]

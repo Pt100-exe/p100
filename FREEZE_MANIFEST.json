@@ -1,0 +1,113 @@
+{
+  "burned_evaluation": {
+    "conversation_id": "6a9df532-f49c-83e8-b7c7-f4431ecd3238",
+    "end_exclusive": "2024-11-09T00:00:00+00:00",
+    "evidence_type": "historical_conversation_claim_not_reproduced",
+    "normalization": "Fechas civiles convertidas conservadoramente a días UTC completos; no proceden de CSV recuperado.",
+    "reported_dates": "2024-09-01 a 2024-11-08, inclusivas",
+    "reported_decisions": 69,
+    "start_inclusive": "2024-09-01T00:00:00+00:00",
+    "status": "DEVELOPMENT_VALIDATION_BURNED_SET",
+    "v04_item_id": "da278096-36cd-45dd-9452-3de4f778857e",
+    "v04_turn_id": "88a1be21-91b9-4869-94cc-5b95c76eb84d"
+  },
+  "candidate_holdout": null,
+  "code": [
+    {
+      "bytes": 568,
+      "path": "config/example.json",
+      "sha256": "fe3af2daf0aedb4b123bf97f7eb9dab3d160bc5529c2bcc212b49f4d3adfa9dc"
+    },
+    {
+      "bytes": 117,
+      "path": "p100_foundations/__init__.py",
+      "sha256": "8b84c8641c0b0b30a2224ebeaf4bdd25e99e09511f2b6190dee5fe777bf2e001"
+    },
+    {
+      "bytes": 1631,
+      "path": "p100_foundations/__main__.py",
+      "sha256": "3439a233b28a74d6b0f15d804b4fbf0e296c0c7ca452d4637eb1f6389466a26d"
+    },
+    {
+      "bytes": 1756,
+      "path": "p100_foundations/features.py",
+      "sha256": "3a47bd7ac18abe923e53e1ee989eaf9ae80dee052c8955bc7d7df029aa90bbe2"
+    },
+    {
+      "bytes": 3818,
+      "path": "p100_foundations/freeze.py",
+      "sha256": "fa56206f37aa4ef4b1376c7f53e213b9828901aa462bbd94c471f97ff78c53d5"
+    },
+    {
+      "bytes": 1518,
+      "path": "p100_foundations/regimes.py",
+      "sha256": "d17817e00781b9d7644e380cfb4e34d4457a4c263d41fbe874ca04c1c14d2e89"
+    },
+    {
+      "bytes": 1639,
+      "path": "p100_foundations/registry.py",
+      "sha256": "231667c9e80d42a4ef6a58aaa72c0c6be378521753ac57c8c2fad874971d3361"
+    },
+    {
+      "bytes": 2669,
+      "path": "p100_foundations/risk.py",
+      "sha256": "ea730a485aee91bfad13abd6f7eec1799972857e6c9faf9be700b1e2a10aa408"
+    },
+    {
+      "bytes": 1478,
+      "path": "p100_foundations/strategy.py",
+      "sha256": "ca5a947ecd4e35b3a30d7ef8a7ed56abd0a90c0053a467b34aac6a05cf5955e8"
+    },
+    {
+      "bytes": 2145,
+      "path": "p100_foundations/temporal.py",
+      "sha256": "9510d9973a579a8f9d5cfc08bb00660461d532dddcf90af98179eb6093155f1f"
+    },
+    {
+      "bytes": 853,
+      "path": "p100_foundations/validation.py",
+      "sha256": "69bddf36fb22d205b7f90996b1bad9cdee1536994c33a8b15f4c30a06cca20f0"
+    },
+    {
+      "bytes": 19957,
+      "path": "tests/test_foundations.py",
+      "sha256": "26133776819bb1cb76b52296f27cefe024cf5e1c024bc2889068b2274df4b694"
+    }
+  ],
+  "config": {
+    "feature": {
+      "lookback_observations": 2
+    },
+    "market_data": null,
+    "new_holdout": null,
+    "purpose": "Illustrative engineering configuration; never fitted to market data",
+    "regime": {
+      "high_vol": 0.6,
+      "low_vol": 0.2,
+      "trend_threshold": 0.02
+    },
+    "risk": {
+      "max_exposure": 1.0,
+      "min_tactical_confidence": 0.5,
+      "target_annual_vol": 0.2
+    },
+    "strategy": {
+      "core": 0.4,
+      "tactical_down": -0.3,
+      "tactical_flat": 0.0,
+      "tactical_up": 0.3
+    },
+    "temporal": {
+      "pre_validation_gap_seconds": 0
+    },
+    "units": "exposures in equity fractions; volatilities in annualized decimal units"
+  },
+  "config_sha256": "e1ce59932fca0f8040c1acea3f4121ed47cf4aebf673b71938055c6e20824f7c",
+  "data": [],
+  "data_status": "NO_MARKET_DATA_PROVIDED",
+  "holdout_status": "NOT_SELECTED",
+  "implementation_origin": "NEW_INDEPENDENT_COMPONENTS_NOT_RECOVERED_V05",
+  "manifest_sha256": "70bd9ce5cdead51d1002dd1bd2a67744b1e3a3d9aa451b6b47b189e6ab6f029f",
+  "schema": "p100-foundations-freeze-1",
+  "scope": "Identidad de bytes y parámetros; no prueba disponibilidad temporal, autenticidad ni rendimiento."
+}
